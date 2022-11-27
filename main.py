@@ -11,7 +11,7 @@ URL = 'https://api.nbp.pl/api/exchangerates/tables/A/?format=json'
 def zamiana(zl, waluta):
 
 
-    wyn = round(zl / waluta["mid"], 3)
+    wyn = round(zl / waluta["mid"], 2)
 
 
     time.sleep(0.25)
