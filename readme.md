@@ -1,5 +1,5 @@
 # kantor_ek
-
+## **Ten program nie będzie już aktualizowany!**
 ## Uruchomienie
 
 * Zainstaluj i utruchom:
