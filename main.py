@@ -19,7 +19,7 @@ def zamiana(zl, waluta):
 
 # wczytanie ilości zł
 def zapytaj_o_budzet():
-    zl = float(input("Podaj ile masz złotych(Pln): "))
+    zl = float(input("Podaj ile masz złotych(PLN): "))
     return zl
 
 # menu
